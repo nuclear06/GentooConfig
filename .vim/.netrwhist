@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/saniter/minegrub-theme/background_options'
+let g:netrw_dirhist_9='/home/saniter/Hyprland-Dots/config/cava'
+let g:netrw_dirhist_8='/etc/NetworkManager/system-connections'
+let g:netrw_dirhist_7='/var/tmp/portage/gui-apps/swaync-0.12.2'
+let g:netrw_dirhist_6='/home/saniter/dotfiles/dotfile/.config/hypr/conf/animations'
+let g:netrw_dirhist_5='/etc/portage/package.use'
+let g:netrw_dirhist_4='/etc/portage/package.accept_keywords'
+let g:netrw_dirhist_3='/etc/portage/package.mask'
+let g:netrw_dirhist_2='/var/db/repos/gentoo/profiles/default/linux/amd64/23.0/desktop/systemd'
+let g:netrw_dirhist_1='/etc/portage/package.use'

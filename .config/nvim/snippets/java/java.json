@@ -1,0 +1,17 @@
+{
+  "int_array": {
+    "prefix": "aarr",
+    "body": "${1:int}[] ${2:arr} = new ${1:int}[${3:n}];",
+    "description": "Single-dimensional array declaration with variable type"
+  },
+  "int_2d_array": {
+    "prefix": "aarrr",
+    "body": "${1:int}[][] ${2:arr} = new ${1:int}[${3:n}][${4:n}];",
+    "description": "Two-dimensional array declaration with variable type"
+  },
+  "elif": {
+    "prefix": "elif",
+    "body": "if (${1:condition}) {\n\t${2:statement}\n} else if (${3:condition}) {\n\t${4:statement}\n} else {\n\t${5:statement}\n}",
+    "description": "Java if-else if-else statement"
+  }
+}

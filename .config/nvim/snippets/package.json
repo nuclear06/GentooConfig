@@ -1,0 +1,19 @@
+{
+	"name": "my_snippet",
+	"contributes": {
+		"snippets": [
+			{
+				"language": [
+					"all"
+				],
+				"path": "./all/all.json"
+			},
+			{
+				"language": [
+					"java"
+				],
+				"path": "./java/java.json"
+			}
+		]
+	}
+}

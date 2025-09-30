@@ -1,0 +1,10 @@
+[Unit]
+Description=v2rayN
+After=network.target graphical.target
+
+[Service]
+Type=simple
+ExecStart=v2rayN
+
+[Install]
+WantedBy=default.target
