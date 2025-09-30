@@ -32,7 +32,7 @@ killall -SIGUSR2 waybar
 pkill qs && QT_SCALE_FACTOR=1 qs &
 
 # some process to kill
-for pid in $(pidof waybar rofi swaync swaybg); do
+for pid in $(pidof waybar rofi swaync ags swaybg); do
     kill -SIGUSR1 "$pid"
 done
 
